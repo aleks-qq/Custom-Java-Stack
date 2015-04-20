@@ -6,4 +6,4 @@ Made it so I would understand 'the stack' better.
 For now it has the methods push and pop which works according to the LIFO(last in first out) principle.
 Can also list the stack and tell how many items are in the stack.
 
-The comments in the code are in finnish.
+'The code' is a mixture of English and Finnish
