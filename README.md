@@ -11,7 +11,7 @@ You have 5 options what to do:
 > - Add data to the stack
 > - Delete data from the stack
 > - Print the content of the stack
-> - Print how much data is contained in the stack
+> - Print how many ListItems are in the stack
 > - Quit the application
 
 
